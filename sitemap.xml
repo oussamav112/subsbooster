@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
   <url>
     <loc>https://links.subsbooster.tech/</loc>
     <lastmod>2025-11-03</lastmod>
     <priority>1.0</priority>
   </url>
-  <url>
-    <loc>https://www.npmjs.com/~gamelair</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://orcid.org/my-orcid?orcid=0009-0007-0486-9191</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://figshare.com/authors/__/22536074</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sites.google.com/view/socialappmods/%D8%A7%D9%84%D8%B5%D9%81%D8%AD%D8%A9-%D8%A7%D9%84%D8%B1%D8%A6%D9%8A%D8%B3%D9%8A%D8%A9</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://about.me/gamelair/getstarted</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://www.twitch.tv/winfilali</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://linktr.ee/gamelair</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://github.com/oussamav112</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://magic.ly/Gamelair</loc>
-    <lastmod>2025-11-03</lastmod>
-    <priority>0.8</priority>
-  </url>
-</urlset>
+
+  </urlset>
